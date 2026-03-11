@@ -1,16 +1,19 @@
-## Hi there 👋
+## Bienvenidos a mi perfil👋
 
-<!--
-**CamiloRC317/CamiloRC317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soy Juan Redondo aprendiz del Sena del programa analisis y desarrollo de software**
 
-Here are some ideas to get you started:
+**Herramientas de programacion y analisis de datos que manejo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Python 
+	<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+</div>
+
+-C# <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+
+-Excel 
+
+-Power Query
+
+-Power Pivot
+
+-Power BI
