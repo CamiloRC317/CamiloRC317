@@ -1,24 +1,30 @@
-## Bienvenidos a mi perfil👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hola, soy Juan Camilo Redondo Celedón
 
-**Soy Juan Redondo aprendiz del Sena del programa analisis y desarrollo de software**
+🎓 Aprendiz / Desarrollador en formación
+💻 Apasionado por la tecnología, el análisis de datos y el desarrollo de software
 
-**Herramientas de programacion y analisis de datos que estoy aprendiendo actualmente**
+## 🚀 Sobre mí 
 
--Python 
-	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-</div>
+Soy una persona interesada en aprender constantemente sobre programación, análisis de datos y herramientas tecnológicas. Me gusta crear proyectos prácticos que me ayuden a mejorar mis habilidades.
 
--C# <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+## 🛠️ Tecnologías que uso
 
--MYSql <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+* Python 
+* Git & GitHub
+* Google Colab
+* Power BI
+* Power Query
+* Power Pivot
+* Excel
 
--Excel <img width="30" height="894" alt="image" src="https://github.com/user-attachments/assets/7a2c0fae-e08b-4dec-b939-2c6346cdbf84" />
+## 📊 Intereses
 
--Power Query <img width="30" height="512" alt="image" src="https://github.com/user-attachments/assets/014a8105-c694-4ad5-b0e5-3f3fc7e05a5f" />
+* Análisis de datos
+* Visualización de datos
+* Desarrollo de software
 
+---
 
--Power Pivot<img width="30" height="2500" alt="image" src="https://github.com/user-attachments/assets/7ac55495-5cfe-4cdc-8c78-44b16e6a8d2d" />
+⭐ *Siempre aprendiendo algo nuevo*
 
-
--Power BI <img width="30" height="960" alt="image" src="https://github.com/user-attachments/assets/2c9185fa-5eae-4f63-996b-d44046f796b9" />
 
