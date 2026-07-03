@@ -9,7 +9,8 @@ Soy una persona interesada en aprender constantemente sobre programación, anál
 
 ## 🛠️ Tecnologías que uso
 
-* Python 
+* Python
+* C# 
 * Git & GitHub
 * Google Colab
 * Power BI
