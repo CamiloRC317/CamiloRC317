@@ -1,155 +1,134 @@
-<!-- ==================== BANNER ==================== -->
+<!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:8B0000,100:FF0000&height=220&section=header&text=PANQUECA&fontSize=75&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=PLAYER%201%20READY&descSize=20&descAlignY=58&descColor=ffffff" width="100%"/>
-</p>
-
-<!-- ==================== TEXTO ANIMADO ==================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=FF1A1A&center=true&vCenter=true&width=650&height=50&lines=%3E+INSERT+COIN+TO+CONTINUE...;%3E+NEW+PLAYER+HAS+JOINED+THE+GAME;%3E+CLASS%3A+SOFTWARE+DEVELOPER;%3E+GUILD%3A+SENA+%E2%80%A2+ADSO;%3E+LOADING+NEXT+LEVEL..." alt="Typing SVG" />
+  <img src="./assets/banner.svg" width="100%" alt="PANQUECA — arcade banner"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CamiloRC317&label=JUGADORES%20QUE%20ENTRARON&color=FF0000&style=for-the-badge" alt="visitas" />
-  <img src="https://img.shields.io/github/followers/CamiloRC317?label=SEGUIDORES&style=for-the-badge&color=000000&labelColor=8B0000" alt="seguidores" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2600&pause=800&color=FF2B2B&center=true&vCenter=true&width=720&height=45&lines=%3E+NEW+CHALLENGER+APPROACHING...;%3E+PLAYER%3A+PANQUECA+%7C+CLASS%3A+DEV;%3E+LOADING+STAGE+01...+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91;%3E+CONTINUE%3F+%E2%96%B6+YES" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CamiloRC317&label=JUGADORES&color=ff2b2b&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/CamiloRC317?label=SEGUIDORES&style=for-the-badge&color=ff2b2b&labelColor=0a0000" />
+  <img src="https://img.shields.io/badge/REGI%C3%93N-COLOMBIA-ffffff?style=for-the-badge&labelColor=0a0000" />
+  <img src="https://img.shields.io/badge/ESTADO-EN%20PARTIDA-ff2b2b?style=for-the-badge&labelColor=0a0000" />
+</p>
 
-## 🕹️ SELECCIONA TU PERSONAJE
+<img src="./assets/divider.svg" width="100%"/>
 
-```yaml
-jugador:     Panqueca
-clase:       Desarrollador de Software
-gremio:      SENA · Análisis y Desarrollo de Software (ADSO)
-nivel:       En constante subida ⬆️
-especialidad:
-  - Desarrollo web y backend
-  - Apps móviles
-  - Análisis de datos
-modo:        Aprendiendo · Construyendo · Subiendo de nivel
-estado:      🟢 ONLINE
+## `STAGE 01` ▸ 🎮 FICHA DEL JUGADOR
+
+```ini
+[ JUGADOR ]
+nick        = Panqueca
+clase       = Aprendiz de Análisis y Desarrollo de Software
+gremio      = SENA // Colombia 🇨🇴
+
+[ INVENTARIO ]
+backend     = Laravel · PHP · C# · .NET
+mobile      = Flutter · Dart
+frontend    = HTML · CSS · JavaScript
+datos       = Python · Pandas · MySQL · Excel · Power BI
+
+[ HABILIDADES ESPECIALES ]
+combo_1     = Power Query → Power Pivot → Power BI
+combo_2     = Python + Pandas → limpieza y análisis de datos
+
+[ PROGRESO ]
+nivel       = subiendo ▓▓▓▓▓▓▓░░░  70%
+vidas       = ♥ ♥ ♥
 ```
 
----
+> 🕹️ **Partida actual:** construyendo APIs, apps y tableros de datos.<br/>
+> 💬 **Pregúntame sobre:** PHP · Laravel · C# · Python · Power BI
 
-## ⚔️ ARSENAL
+<img src="./assets/divider.svg" width="100%"/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="140"><b>🗡️ Lenguajes</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=FF0000" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🛡️ Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF0000" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>📊 Datos</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Power%20Query-000000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Power%20Pivot-000000?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔧 Herramientas</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=FF0000" />
-    </td>
-  </tr>
-</table>
+## `STAGE 02` ▸ ⚔️ ARSENAL
 
----
+<p align="center"><b>🗡️ ARMAS PRINCIPALES</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-0a0000?style=for-the-badge&logo=php&logoColor=ff2b2b" />
+  <img src="https://img.shields.io/badge/LARAVEL-0a0000?style=for-the-badge&logo=laravel&logoColor=ff2b2b" />
+  <img src="https://img.shields.io/badge/C%23-0a0000?style=for-the-badge&logo=dotnet&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/.NET-0a0000?style=for-the-badge&logo=dotnet&logoColor=ff2b2b" />
+  <img src="https://img.shields.io/badge/PYTHON-0a0000?style=for-the-badge&logo=python&logoColor=ffffff" />
+</p>
 
-## 🗺️ MISIONES COMPLETADAS
+<p align="center"><b>📱 MÓVIL Y WEB</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FLUTTER-0a0000?style=for-the-badge&logo=flutter&logoColor=ff2b2b" />
+  <img src="https://img.shields.io/badge/DART-0a0000?style=for-the-badge&logo=dart&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-0a0000?style=for-the-badge&logo=javascript&logoColor=ff2b2b" />
+  <img src="https://img.shields.io/badge/HTML5-0a0000?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-0a0000?style=for-the-badge&logo=css&logoColor=ff2b2b" />
+</p>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔴 <a href="https://github.com/CamiloRC317/Contacts-API">Contacts-API</a></h3>
-      API REST para gestionar contactos.<br/><br/>
-      <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=FF0000" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔴 <a href="https://github.com/CamiloRC317/ProyectoAmonic">ProyectoAmonic</a></h3>
-      Aplicación de escritorio del proyecto AMONIC.<br/><br/>
-      <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=dotnet&logoColor=FF0000" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>🔴 <a href="https://github.com/CamiloRC317/Colegio.py">Colegio.py</a></h3>
-      Listas de colegio con 3 roles de usuario.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF0000" />
-    </td>
-    <td valign="top">
-      <h3>🔴 <a href="https://github.com/CamiloRC317/Clases-de-eventos-JS">Clases-de-eventos-JS</a></h3>
-      Práctica de eventos en JavaScript.<br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF0000" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>🔴 <a href="https://github.com/CamiloRC317/Base-de-Datos-evaluacion">Base-de-Datos-evaluacion</a></h3>
-      Evaluación de diseño de bases de datos.<br/><br/>
-      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=FF0000" />
-    </td>
-    <td valign="top">
-      <h3>🔴 <a href="https://github.com/CamiloRC317/Redondo_Juan_Taller_LATAM">Taller LATAM</a></h3>
-      Taller de modelado para un sistema de vuelos.<br/><br/>
-      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=FF0000" />
-    </td>
-  </tr>
-</table>
+<p align="center"><b>📊 MAGIA DE DATOS</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PANDAS-0a0000?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MYSQL-0a0000?style=for-the-badge&logo=mysql&logoColor=ff2b2b" />
+  <img src="https://img.shields.io/badge/EXCEL-0a0000?style=for-the-badge&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/POWER_QUERY-0a0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/POWER_PIVOT-0a0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/POWER_BI-0a0000?style=for-the-badge" />
+</p>
 
----
+<p align="center"><b>🔧 EQUIPO</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-0a0000?style=for-the-badge&logo=git&logoColor=ff2b2b" />
+  <img src="https://img.shields.io/badge/VS_CODE-0a0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ANDROID_STUDIO-0a0000?style=for-the-badge&logo=androidstudio&logoColor=ff2b2b" />
+</p>
 
-## 🎮 ESTADÍSTICAS DEL JUGADOR
+<img src="./assets/divider.svg" width="100%"/>
+
+## `STAGE 03` ▸ 🏆 NIVELES SUPERADOS
+
+| 🔻 NIVEL | 📜 MISIÓN | 🧪 STACK |
+|---|---|---|
+| 📇 [**Contacts-API**](https://github.com/CamiloRC317/Contacts-API) | API REST para gestionar contactos | ![PHP](https://img.shields.io/badge/PHP-0a0000?style=flat-square&logo=php&logoColor=ff2b2b) ![Laravel](https://img.shields.io/badge/Laravel-0a0000?style=flat-square&logo=laravel&logoColor=ff2b2b) |
+| ✈️ [**ProyectoAmonic**](https://github.com/CamiloRC317/ProyectoAmonic) | Aplicación de escritorio del proyecto AMONIC | ![C#](https://img.shields.io/badge/C%23-0a0000?style=flat-square&logo=dotnet&logoColor=ff2b2b) |
+| 🏫 [**Colegio.py**](https://github.com/CamiloRC317/Colegio.py) | Listas de colegio con 3 roles de usuario | ![Python](https://img.shields.io/badge/Python-0a0000?style=flat-square&logo=python&logoColor=ff2b2b) |
+| ⚡ [**Clases-de-eventos-JS**](https://github.com/CamiloRC317/Clases-de-eventos-JS) | Práctica de eventos en JavaScript | ![JS](https://img.shields.io/badge/JavaScript-0a0000?style=flat-square&logo=javascript&logoColor=ff2b2b) |
+| 🗄️ [**Base-de-Datos-evaluacion**](https://github.com/CamiloRC317/Base-de-Datos-evaluacion) | Evaluación de diseño de bases de datos | ![SQL](https://img.shields.io/badge/SQL-0a0000?style=flat-square&logo=mysql&logoColor=ff2b2b) |
+| 🛫 [**Taller LATAM**](https://github.com/CamiloRC317/Redondo_Juan_Taller_LATAM) | Modelado de datos para un sistema de vuelos | ![SQL](https://img.shields.io/badge/SQL-0a0000?style=flat-square&logo=mysql&logoColor=ff2b2b) |
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CamiloRC317&show_icons=true&locale=es&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000&hide=contribs&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloRC317&layout=compact&locale=es&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF&langs_count=8" />
+  <a href="https://github.com/CamiloRC317?tab=repositories">
+    <img src="https://img.shields.io/badge/%E2%96%B6_SELECCIONAR_NIVEL_%E2%97%80-VER_TODOS_LOS_REPOSITORIOS-ff2b2b?style=for-the-badge&labelColor=0a0000&logo=github&logoColor=ff2b2b" />
+  </a>
+</p>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `STAGE 04` ▸ 📈 MARCADOR
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CamiloRC317&show_icons=true&locale=es&hide_border=true&bg_color=0a0000&title_color=ff2b2b&icon_color=ff2b2b&text_color=ffffff&ring_color=ff2b2b&hide=contribs&count_private=true&custom_title=Marcador%20de%20Panqueca" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloRC317&layout=compact&locale=es&hide_border=true&bg_color=0a0000&title_color=ff2b2b&text_color=ffffff&langs_count=8&custom_title=Armas%20m%C3%A1s%20usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CamiloRC317&locale=es&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999&stroke=8B0000" />
+  <img src="https://streak-stats.demolab.com?user=CamiloRC317&locale=es&hide_border=true&background=0a0000&ring=ff2b2b&fire=ff2b2b&currStreakLabel=ff2b2b&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=999999&stroke=8b0000" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloRC317&bg_color=0D0D0D&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&area_color=8B0000&hide_border=true&title_color=FF0000&custom_title=XP%20ganada%20por%20d%C3%ADa" />
-</p>
-
----
-
-## 📡 CONECTAR CON EL JUGADOR
-
-<p align="center">
-  <a href="https://github.com/CamiloRC317"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" /></a>
-</p>
-
-<!-- ==================== FOOTER ==================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1500&color=FF0000&center=true&vCenter=true&width=500&lines=GAME+OVER%3F+NUNCA.;CONTINUE%3F+%E2%96%B6+YES" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloRC317&bg_color=0a0000&color=ffffff&line=ff2b2b&point=ffffff&area=true&area_color=8b0000&hide_border=true&title_color=ff2b2b&custom_title=XP%20ganada%20por%20d%C3%ADa" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,40:8B0000,100:000000&height=120&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/CamiloRC317/CamiloRC317/output/snake-arcade.svg" alt="snake devorando contribuciones" />
+</p>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `STAGE 05` ▸ 📡 MULTIJUGADOR
+
+<p align="center">
+  <a href="https://github.com/CamiloRC317"><img src="https://img.shields.io/badge/GITHUB-0a0000?style=for-the-badge&logo=github&logoColor=ff2b2b" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="CONTINUE?"/>
 </p>
