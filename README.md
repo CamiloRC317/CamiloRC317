@@ -1,6 +1,6 @@
 <!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:8B0000,100:FF0000&height=230&section=header&text=PANQUECA&fontSize=80&fontColor=ffffff&animation=twinkling&stroke=FF0000&strokeWidth=2&desc=PLAYER%201%20%E2%80%A2%20READY&descSize=20&descAlignY=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:8B0000,100:FF0000&height=220&section=header&text=PANQUECA&fontSize=75&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=PLAYER%201%20READY&descSize=20&descAlignY=58&descColor=ffffff" width="100%"/>
 </p>
 
 <!-- ==================== TEXTO ANIMADO ==================== -->
@@ -34,61 +34,99 @@ estado:      🟢 ONLINE
 
 ## ⚔️ ARSENAL
 
-### 🗡️ Lenguajes
-<p>
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=FF0000" />
-</p>
-
-### 🛡️ Frameworks y librerías
-<p>
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF0000" />
-</p>
-
-### 📊 Datos y análisis
-<p>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Power%20Query-000000?style=for-the-badge&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Power%20Pivot-000000?style=for-the-badge&logoColor=FF0000" />
-</p>
-
-### 🔧 Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=FF0000" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>🗡️ Lenguajes</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=FF0000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛡️ Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF0000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Datos</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Power%20Query-000000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Power%20Pivot-000000?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔧 Herramientas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=FF0000" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🗺️ MISIONES COMPLETADAS
 
-<p align="center">
-  <a href="https://github.com/CamiloRC317/Contacts-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloRC317&repo=Contacts-API&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" /></a>
-  <a href="https://github.com/CamiloRC317/ProyectoAmonic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloRC317&repo=ProyectoAmonic&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" /></a>
-  <a href="https://github.com/CamiloRC317/Colegio.py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloRC317&repo=Colegio.py&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" /></a>
-  <a href="https://github.com/CamiloRC317/Base-de-Datos-evaluacion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloRC317&repo=Base-de-Datos-evaluacion&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" /></a>
-  <a href="https://github.com/CamiloRC317/Clases-de-eventos-JS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloRC317&repo=Clases-de-eventos-JS&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" /></a>
-  <a href="https://github.com/CamiloRC317/Redondo_Juan_Taller_LATAM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloRC317&repo=Redondo_Juan_Taller_LATAM&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔴 <a href="https://github.com/CamiloRC317/Contacts-API">Contacts-API</a></h3>
+      API REST para gestionar contactos.<br/><br/>
+      <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=FF0000" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔴 <a href="https://github.com/CamiloRC317/ProyectoAmonic">ProyectoAmonic</a></h3>
+      Aplicación de escritorio del proyecto AMONIC.<br/><br/>
+      <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=dotnet&logoColor=FF0000" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🔴 <a href="https://github.com/CamiloRC317/Colegio.py">Colegio.py</a></h3>
+      Listas de colegio con 3 roles de usuario.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF0000" />
+    </td>
+    <td valign="top">
+      <h3>🔴 <a href="https://github.com/CamiloRC317/Clases-de-eventos-JS">Clases-de-eventos-JS</a></h3>
+      Práctica de eventos en JavaScript.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF0000" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🔴 <a href="https://github.com/CamiloRC317/Base-de-Datos-evaluacion">Base-de-Datos-evaluacion</a></h3>
+      Evaluación de diseño de bases de datos.<br/><br/>
+      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=FF0000" />
+    </td>
+    <td valign="top">
+      <h3>🔴 <a href="https://github.com/CamiloRC317/Redondo_Juan_Taller_LATAM">Taller LATAM</a></h3>
+      Taller de modelado para un sistema de vuelos.<br/><br/>
+      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=FF0000" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎮 ESTADÍSTICAS DEL JUGADOR
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CamiloRC317&show_icons=true&locale=es&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloRC317&layout=compact&locale=es&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CamiloRC317&show_icons=true&locale=es&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000&hide=contribs&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloRC317&layout=compact&locale=es&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF&langs_count=8" />
 </p>
 
 <p align="center">
@@ -101,31 +139,10 @@ estado:      🟢 ONLINE
 
 ---
 
-## 🏆 LOGROS DESBLOQUEADOS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CamiloRC317&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
-
-## 🐍 MODO ARCADE
-
-<!-- Necesita el archivo .github/workflows/snake.yml (ver instrucciones) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CamiloRC317/CamiloRC317/output/github-snake-dark.svg" alt="snake devorando contribuciones" />
-</p>
-
----
-
 ## 📡 CONECTAR CON EL JUGADOR
 
 <p align="center">
   <a href="https://github.com/CamiloRC317"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" /></a>
-  <!-- Quita los comentarios y pon los enlaces reales:
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoColor=FF0000" /></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
-  -->
 </p>
 
 <!-- ==================== FOOTER ==================== -->
@@ -134,5 +151,5 @@ estado:      🟢 ONLINE
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0000,50:8B0000,100:000000&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,40:8B0000,100:000000&height=120&section=footer" width="100%"/>
 </p>
